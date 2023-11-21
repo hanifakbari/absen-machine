@@ -5,13 +5,14 @@
 
 .appcanvas{
   position: absolute;
-  top: 100px
+  top: -24px
 }
 
 .myapp{
   display: flex;
-  width: 100vw;
+  width: 40vw;
   height: 100vh;
+  background: linear-gradient(180deg, #134080 0%, #0B2955 100%, #0B2955 100%);
   flex-direction: column;
   align-items: center;
   /* justify-content: space-between; */
